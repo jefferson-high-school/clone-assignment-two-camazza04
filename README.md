@@ -6,7 +6,8 @@ Instructions:
 3. Commit this locallly. Push the committed changes to your remote repository on github.
 4. Confirm that the local and remote repositories are in sync.
 
-There is a document named setting up your IDE with four videos to help.
-You can resuse the authetication token you already created --->you don't need to create a new one each time
+Christopher Mazza
+
+I just combined AWS Cloud9 and Github to create a full IDE solution.
 
 THE END ----> Congratulations
